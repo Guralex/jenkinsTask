@@ -11,7 +11,7 @@ public class Main {
     public static final String URL = "https://dl.dropboxusercontent.com/u/98396761/NewTxt.txt";
 
     public static void main(String[] args) throws MalformedURLException, IOException {
-        //for commit12345
+        //for commit123456
         
         File destination = new File(System.getProperty("user.dir")+"\\result.txt");
         System.out.println("Downloading file...");
